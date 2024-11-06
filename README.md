@@ -6,6 +6,8 @@ A responsive and user-friendly website developed for PinSocial, a leading digita
 
 This website was developed to provide PinSocial’s clients with a seamless experience to explore the company's services and offerings. The website is designed with a focus on responsiveness, ensuring compatibility across various devices and browsers.
 
+> **Note:** Due to size limitations, media files used in the website are not included in this repository. Only the code (HTML, CSS, and JavaScript) is provided.
+
 ## Features
 
 - **Responsive Design**: Adapts to both desktop and mobile devices.
@@ -17,3 +19,4 @@ This website was developed to provide PinSocial’s clients with a seamless expe
 1. Clone the repository:
    ```bash
    git clone https://github.com/varghese-kl/PinSocial.git
+
